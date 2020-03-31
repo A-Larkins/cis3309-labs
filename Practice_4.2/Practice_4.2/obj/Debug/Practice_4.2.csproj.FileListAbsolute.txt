@@ -1,0 +1,10 @@
+D:\CIS3309\labs\Practice_4.2\Practice_4.2\bin\Debug\Practice_4.2.exe.config
+D:\CIS3309\labs\Practice_4.2\Practice_4.2\bin\Debug\Practice_4.2.exe
+D:\CIS3309\labs\Practice_4.2\Practice_4.2\bin\Debug\Practice_4.2.pdb
+D:\CIS3309\labs\Practice_4.2\Practice_4.2\obj\Debug\Practice_4.2.csprojAssemblyReference.cache
+D:\CIS3309\labs\Practice_4.2\Practice_4.2\obj\Debug\Practice_4._2.frmInvoiceTotal.resources
+D:\CIS3309\labs\Practice_4.2\Practice_4.2\obj\Debug\Practice_4._2.Properties.Resources.resources
+D:\CIS3309\labs\Practice_4.2\Practice_4.2\obj\Debug\Practice_4.2.csproj.GenerateResource.cache
+D:\CIS3309\labs\Practice_4.2\Practice_4.2\obj\Debug\Practice_4.2.csproj.CoreCompileInputs.cache
+D:\CIS3309\labs\Practice_4.2\Practice_4.2\obj\Debug\Practice_4.2.exe
+D:\CIS3309\labs\Practice_4.2\Practice_4.2\obj\Debug\Practice_4.2.pdb
