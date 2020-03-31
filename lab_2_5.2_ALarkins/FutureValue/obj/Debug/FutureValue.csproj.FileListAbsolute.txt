@@ -1,0 +1,20 @@
+D:\Murach C# 2015 Exercises\Exercise starts\Chapter 05\FutureValue\FutureValue\bin\Debug\FutureValue.exe.config
+D:\Murach C# 2015 Exercises\Exercise starts\Chapter 05\FutureValue\FutureValue\bin\Debug\FutureValue.exe
+D:\Murach C# 2015 Exercises\Exercise starts\Chapter 05\FutureValue\FutureValue\bin\Debug\FutureValue.pdb
+D:\Murach C# 2015 Exercises\Exercise starts\Chapter 05\FutureValue\FutureValue\obj\Debug\FutureValue.csprojAssemblyReference.cache
+D:\Murach C# 2015 Exercises\Exercise starts\Chapter 05\FutureValue\FutureValue\obj\Debug\FutureValue.FutureValue.resources
+D:\Murach C# 2015 Exercises\Exercise starts\Chapter 05\FutureValue\FutureValue\obj\Debug\FutureValue.Properties.Resources.resources
+D:\Murach C# 2015 Exercises\Exercise starts\Chapter 05\FutureValue\FutureValue\obj\Debug\FutureValue.csproj.GenerateResource.cache
+D:\Murach C# 2015 Exercises\Exercise starts\Chapter 05\FutureValue\FutureValue\obj\Debug\FutureValue.csproj.CoreCompileInputs.cache
+D:\Murach C# 2015 Exercises\Exercise starts\Chapter 05\FutureValue\FutureValue\obj\Debug\FutureValue.exe
+D:\Murach C# 2015 Exercises\Exercise starts\Chapter 05\FutureValue\FutureValue\obj\Debug\FutureValue.pdb
+D:\CIS3309\labs\lab_2_5.2_ALarkins\FutureValue\bin\Debug\FutureValue.exe.config
+D:\CIS3309\labs\lab_2_5.2_ALarkins\FutureValue\bin\Debug\FutureValue.exe
+D:\CIS3309\labs\lab_2_5.2_ALarkins\FutureValue\bin\Debug\FutureValue.pdb
+D:\CIS3309\labs\lab_2_5.2_ALarkins\FutureValue\obj\Debug\FutureValue.csprojAssemblyReference.cache
+D:\CIS3309\labs\lab_2_5.2_ALarkins\FutureValue\obj\Debug\FutureValue.FutureValue.resources
+D:\CIS3309\labs\lab_2_5.2_ALarkins\FutureValue\obj\Debug\FutureValue.Properties.Resources.resources
+D:\CIS3309\labs\lab_2_5.2_ALarkins\FutureValue\obj\Debug\FutureValue.csproj.GenerateResource.cache
+D:\CIS3309\labs\lab_2_5.2_ALarkins\FutureValue\obj\Debug\FutureValue.csproj.CoreCompileInputs.cache
+D:\CIS3309\labs\lab_2_5.2_ALarkins\FutureValue\obj\Debug\FutureValue.exe
+D:\CIS3309\labs\lab_2_5.2_ALarkins\FutureValue\obj\Debug\FutureValue.pdb

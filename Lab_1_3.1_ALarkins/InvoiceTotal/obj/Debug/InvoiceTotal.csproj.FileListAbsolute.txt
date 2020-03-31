@@ -1,0 +1,30 @@
+D:\Murach C# 2015 Exercises\Exercise starts\Chapter 02\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+D:\Murach C# 2015 Exercises\Exercise starts\Chapter 02\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+D:\Murach C# 2015 Exercises\Exercise starts\Chapter 02\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+D:\Murach C# 2015 Exercises\Exercise starts\Chapter 02\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csprojAssemblyReference.cache
+D:\Murach C# 2015 Exercises\Exercise starts\Chapter 02\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Form1.resources
+D:\Murach C# 2015 Exercises\Exercise starts\Chapter 02\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+D:\Murach C# 2015 Exercises\Exercise starts\Chapter 02\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.cache
+D:\Murach C# 2015 Exercises\Exercise starts\Chapter 02\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.CoreCompileInputs.cache
+D:\Murach C# 2015 Exercises\Exercise starts\Chapter 02\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+D:\Murach C# 2015 Exercises\Exercise starts\Chapter 02\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
+D:\Murach C# 2015 Exercises\Exercise starts\Chapter 03\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+D:\Murach C# 2015 Exercises\Exercise starts\Chapter 03\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+D:\Murach C# 2015 Exercises\Exercise starts\Chapter 03\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+D:\Murach C# 2015 Exercises\Exercise starts\Chapter 03\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csprojAssemblyReference.cache
+D:\Murach C# 2015 Exercises\Exercise starts\Chapter 03\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.frmInvoiceTotal.resources
+D:\Murach C# 2015 Exercises\Exercise starts\Chapter 03\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+D:\Murach C# 2015 Exercises\Exercise starts\Chapter 03\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.cache
+D:\Murach C# 2015 Exercises\Exercise starts\Chapter 03\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.CoreCompileInputs.cache
+D:\Murach C# 2015 Exercises\Exercise starts\Chapter 03\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+D:\Murach C# 2015 Exercises\Exercise starts\Chapter 03\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
+D:\CIS3309\labs\Lab_1_3.1_ALarkins\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+D:\CIS3309\labs\Lab_1_3.1_ALarkins\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+D:\CIS3309\labs\Lab_1_3.1_ALarkins\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+D:\CIS3309\labs\Lab_1_3.1_ALarkins\InvoiceTotal\obj\Debug\InvoiceTotal.csprojAssemblyReference.cache
+D:\CIS3309\labs\Lab_1_3.1_ALarkins\InvoiceTotal\obj\Debug\InvoiceTotal.frmInvoiceTotal.resources
+D:\CIS3309\labs\Lab_1_3.1_ALarkins\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+D:\CIS3309\labs\Lab_1_3.1_ALarkins\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.cache
+D:\CIS3309\labs\Lab_1_3.1_ALarkins\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.CoreCompileInputs.cache
+D:\CIS3309\labs\Lab_1_3.1_ALarkins\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+D:\CIS3309\labs\Lab_1_3.1_ALarkins\InvoiceTotal\obj\Debug\InvoiceTotal.pdb

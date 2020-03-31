@@ -1,0 +1,20 @@
+E:\CIS3309\Murach C# 2015 Exercises\Exercise starts\Chapter 06\Exercise_6.2x_Lab_3\Exercise_6.2x_Lab_3\bin\Debug\Exercise_6.2x_Lab_3.exe.config
+E:\CIS3309\Murach C# 2015 Exercises\Exercise starts\Chapter 06\Exercise_6.2x_Lab_3\Exercise_6.2x_Lab_3\bin\Debug\Exercise_6.2x_Lab_3.exe
+E:\CIS3309\Murach C# 2015 Exercises\Exercise starts\Chapter 06\Exercise_6.2x_Lab_3\Exercise_6.2x_Lab_3\bin\Debug\Exercise_6.2x_Lab_3.pdb
+E:\CIS3309\Murach C# 2015 Exercises\Exercise starts\Chapter 06\Exercise_6.2x_Lab_3\Exercise_6.2x_Lab_3\obj\Debug\Exercise_6._2x_Lab_3.frmIncomeTax.resources
+E:\CIS3309\Murach C# 2015 Exercises\Exercise starts\Chapter 06\Exercise_6.2x_Lab_3\Exercise_6.2x_Lab_3\obj\Debug\Exercise_6._2x_Lab_3.Properties.Resources.resources
+E:\CIS3309\Murach C# 2015 Exercises\Exercise starts\Chapter 06\Exercise_6.2x_Lab_3\Exercise_6.2x_Lab_3\obj\Debug\Exercise_6.2x_Lab_3.csproj.GenerateResource.Cache
+E:\CIS3309\Murach C# 2015 Exercises\Exercise starts\Chapter 06\Exercise_6.2x_Lab_3\Exercise_6.2x_Lab_3\obj\Debug\Exercise_6.2x_Lab_3.exe
+E:\CIS3309\Murach C# 2015 Exercises\Exercise starts\Chapter 06\Exercise_6.2x_Lab_3\Exercise_6.2x_Lab_3\obj\Debug\Exercise_6.2x_Lab_3.pdb
+E:\CIS3309\Murach C# 2015 Exercises\Exercise starts\Chapter 06\Exercise_6.2x_Lab_3\Exercise_6.2x_Lab_3\obj\Debug\Exercise_6.2x_Lab_3.csprojAssemblyReference.cache
+E:\CIS3309\Murach C# 2015 Exercises\Exercise starts\Chapter 06\Exercise_6.2x_Lab_3\Exercise_6.2x_Lab_3\obj\Debug\Exercise_6.2x_Lab_3.csproj.CoreCompileInputs.cache
+D:\CIS3309\labs\Lab_3_6.2x_ALarkins\Exercise_6.2x_Lab_3\bin\Debug\Exercise_6.2x_Lab_3.exe.config
+D:\CIS3309\labs\Lab_3_6.2x_ALarkins\Exercise_6.2x_Lab_3\bin\Debug\Exercise_6.2x_Lab_3.exe
+D:\CIS3309\labs\Lab_3_6.2x_ALarkins\Exercise_6.2x_Lab_3\bin\Debug\Exercise_6.2x_Lab_3.pdb
+D:\CIS3309\labs\Lab_3_6.2x_ALarkins\Exercise_6.2x_Lab_3\obj\Debug\Exercise_6.2x_Lab_3.csprojAssemblyReference.cache
+D:\CIS3309\labs\Lab_3_6.2x_ALarkins\Exercise_6.2x_Lab_3\obj\Debug\Exercise_6._2x_Lab_3.frmIncomeTax.resources
+D:\CIS3309\labs\Lab_3_6.2x_ALarkins\Exercise_6.2x_Lab_3\obj\Debug\Exercise_6._2x_Lab_3.Properties.Resources.resources
+D:\CIS3309\labs\Lab_3_6.2x_ALarkins\Exercise_6.2x_Lab_3\obj\Debug\Exercise_6.2x_Lab_3.csproj.GenerateResource.cache
+D:\CIS3309\labs\Lab_3_6.2x_ALarkins\Exercise_6.2x_Lab_3\obj\Debug\Exercise_6.2x_Lab_3.csproj.CoreCompileInputs.cache
+D:\CIS3309\labs\Lab_3_6.2x_ALarkins\Exercise_6.2x_Lab_3\obj\Debug\Exercise_6.2x_Lab_3.exe
+D:\CIS3309\labs\Lab_3_6.2x_ALarkins\Exercise_6.2x_Lab_3\obj\Debug\Exercise_6.2x_Lab_3.pdb
